@@ -1,5 +1,5 @@
 # Fairness-Transparency Trade-Off: How does increasing fairness in an interpretable model influence accuracy?
-Hello and welcome to my project. The dataset required for the code demonstration is "survey_lung_cancer.csv" however I did not add the underscores when loading the dataset into the .ipynb file so be aware of that.
+Hello and welcome to my project. This project was done as a final submission for the course "Explainable AI" taken at Radboud University (Nijmegen, Netherlands) for my Undergraduate program BSc Artificial Intelligence. The dataset required for the code demonstration is "survey_lung_cancer.csv" however I did not add the underscores when loading the dataset into the .ipynb file so be aware of that.
 
 The code demonstration includes the following:
 1. Importation of Libraries
